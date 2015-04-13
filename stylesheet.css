@@ -83,7 +83,7 @@ li#contact {
 }
 
 #photoContainer {
-	width: 100%;
+	width: 99.5%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -120,7 +120,7 @@ li a#links2:hover {
 #options {
 position: relative;
 top: 0;
-width: 49em;
+width: 44em;
 margin-left: auto;
 margin-right: auto;
 margin-top: -0.6em;
@@ -151,8 +151,6 @@ margin-bottom: 0.5em;
 #dropdown th {
 	font-weight: 400;
 	border-bottom: 1px solid #fff;
-	/*border-left: 1px solid #fff;
-	border-right: 1px solid #fff;*/
 	padding: 0px;
 	text-align: center;
 }
@@ -161,39 +159,26 @@ margin-bottom: 0.5em;
 	text-align: center;
 }
 
-#cascadingPositionLayout {
-	display: inline-flex;
+.box {
+  background: #0018E5;
+  float: left;
+  margin: 1.858736059%;
+  text-align: center;
+  width: 20%;
+  height: 17em;
 }
 
-#rectPanelOneOfFour {
-	height: 300px;
-	width: 23%;
-	align-content: center;
-	background-color: #0018E5;
-}
-
-#rectPanelTwoOfFour {
-	height: 300px;
-	width: 49.4%;
-	margin-left: auto;
-	margin-right: auto;
-	align-content: center;
-	background-color: #0018E5;
-}
-
-#rectPanelThreeOfFour {
-	height: 300px;
-	width: 23%;
-    align-content: center;
-	background-color: #0018E5;
+.box-main {
+    width: 48%;
+    
 }
 
 #presentedEvents {
-	font-family: 'Lato', sans-serif;
-	font-weight: 300;
-	color: #fff;
-	text-align: center;
-	display: block;
-	list-style: none;
-	margin-bottom: 5px;
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+color: #fff;
+text-align: center;
+display: block;
+list-style: none;
+margin-bottom: 5px;
 }
