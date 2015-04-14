@@ -1,5 +1,5 @@
 body {
-	background-color: #0022FF;
+	background-color: #788DBF;
 }
 
 li#side {
@@ -80,6 +80,7 @@ li#contact {
 	width: 291.625px;*/
 	height: 7%;
 	width: 95%;
+	border: 1px solid #3E3E40;
 }
 
 #photoContainer {
